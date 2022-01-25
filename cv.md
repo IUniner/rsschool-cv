@@ -1,6 +1,6 @@
+<!-- !) -->
  
-# Ilya Lelia
-
+# Ilya Lelia 
 ***
 
 # My Contact:
@@ -31,28 +31,28 @@ I'm starting worker 21 years old, I'm studying on the 3 course in BSUIR on the I
 
 ```
 function disemvowel(str) {
-  const exp = /[oiuea]/gi;
-  str = str.replace(exp, "");
-  return str;
+  const exp = /[oiuea]/gi* **
+  str = str.replace(exp, "")* **
+  return str* **
 }
 ```
 
 # Education
 
-* ** BSUIR **
+* **BSUIR**
     * Computer science and programming technologies
 
-* ** Underground Language Club **
+* **Underground Language Club**
     * Sunday English courses 2020-2022
 
-* **IT-Academy **
+* **IT-Academy**
     * Industrial C# programming
 
-* ** Rolling Scopes School **
+* **Rolling Scopes School**
     * [JavaScript](https://rollingscopes.com/)
 
-* ** The Modern JavaScript Tutorial**
-    * [JavaScript/DOM](https://learn.javascript.ru/!)
+* **The Modern JavaScript Tutorial**
+    * [JavaScript/DOM](https://learn.javascript.ru/)
 
 # Languages
 
