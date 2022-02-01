@@ -1,1 +1,1 @@
-# rsschool-cv
+https://IUniner.github.io/rsschool-cv/cv
